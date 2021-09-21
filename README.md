@@ -1,4 +1,4 @@
-## Olá! Eu sou o Victor Hugo
+## Olá! Eu sou o Victor Hugo👋🏻
 
 - 🔭 Hoje não atuo no mercado de trabalho, porém pretendo! 
 - 🌱 Cursando Desenvolvimento de Sitemas 
