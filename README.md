@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Victor Hugo👋🏻
 
-- 🔭 Hoje não atuo no mercado de trabalho, porém pretendo! 
+- 🔭 Em busca de uma Oportunidade no mercado de Trabalho
 - 🌎 16 anos
 - 🌱 Cursando Desenvolvimento de Sitemas 
 - 📫 Contate-me no email: palma_victorhugo@terra.com.br
