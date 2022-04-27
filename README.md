@@ -19,6 +19,8 @@
   <img align="center" alt="Victor-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Victor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+          
   <img align="right" alt="victor-yoda" height="150" src="https://c.tenor.com/lnzb_NOYs1cAAAAC/baby-yoda.gif">
 
 </div>
