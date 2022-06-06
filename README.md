@@ -20,8 +20,6 @@
   <img align="center" alt="Victor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Victor-Figma" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  />
-          
-  <img align="right" alt="victor-yoda" height="150" src="https://c.tenor.com/lnzb_NOYs1cAAAAC/baby-yoda.gif">
 
 </div>
   
