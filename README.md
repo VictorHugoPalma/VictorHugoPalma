@@ -2,7 +2,7 @@
 
 - 🔭 Em busca de uma Oportunidade no mercado de Trabalho
 - 🌎 17 anos
-- 🌱 Cursando Desenvolvimento de Sitemas 
+- 🌱 Cursando Desenvolvimento de Sistemas 
 - 📫 Contate-me no email: palma_victorhugo@terra.com.br
 - 😄 Pronomes: ele/dele
 
