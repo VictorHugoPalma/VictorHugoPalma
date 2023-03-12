@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Victor Hugo👋🏻
 
 - 🔭 Em busca de uma Oportunidade no mercado de Trabalho
-- 🌎 16 anos
+- 🌎 17 anos
 - 🌱 Cursando Desenvolvimento de Sitemas 
 - 📫 Contate-me no email: palma_victorhugo@terra.com.br
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/VictorHugoPalma/">
@@ -27,7 +27,7 @@
   
   <div>
   <a href="https://www.instagram.com/_victor.palma_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:palma_victorhugo@terra.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hugo-candido-garcia-palma-a10403211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         
     
