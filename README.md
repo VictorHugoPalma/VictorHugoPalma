@@ -4,7 +4,6 @@
 - 🌎 17 anos
 - 🌱 Cursando Desenvolvimento de Sistemas 
 - 📫 Contate-me no email: palma_victorhugo@terra.com.br
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/VictorHugoPalma/">
